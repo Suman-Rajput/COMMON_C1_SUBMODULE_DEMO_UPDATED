@@ -13,8 +13,6 @@ public class CommonClass {
 
 		System.out.println("ADDED SUBMODULE TASK 1");
 		
-		System.out.println("testing of revet command");
-		
 		
 	}
 
