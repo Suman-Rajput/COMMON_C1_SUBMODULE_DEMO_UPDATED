@@ -17,7 +17,12 @@ public class CommonClass {
 		
 		
         System.out.println("LATEST 1st  EDIT to show demo at 5 pm call");
+<<<<<<< HEAD
         System.out.println("hello last changes ");
+=======
+        System.out.println("final changes");
+        System.out.println("last changes now no changes required ");
+>>>>>>> 47a0bb8267cd520ee7076b7418cd669525163140
 		
 	}
 
